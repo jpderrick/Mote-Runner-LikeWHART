@@ -6,8 +6,8 @@ Supervisor: Dr Leandro Soares Indrusiak
 
 # The Files
 
-Report.pdf - The final writeup of my report that was submitted
-/Presentation - Contains all of the presentation slides/notes and videos that I put together for the presentation I had to do
+Report.pdf - The final writeup of my report that was submitted </br>
+/Presentation -  Slides/notes and videos that I put together for the summary presentation I had to do <br/>
 /Code - contains all of the code that was required to implement the NetworkManager as well as example NetworkDevice
 
 
